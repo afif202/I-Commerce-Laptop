@@ -1,0 +1,6 @@
+framework module Pods_foodKavsoft_foodKavsoftUITests {
+  umbrella header "Pods-foodKavsoft-foodKavsoftUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

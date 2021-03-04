@@ -1,0 +1,6 @@
+framework module Pods_foodKavsoft {
+  umbrella header "Pods-foodKavsoft-umbrella.h"
+
+  export *
+  module * { export * }
+}
